@@ -1,0 +1,2299 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MaterialLibrary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <material name="SFX_PBS_010000000800824f_opaque" label="EyeL">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean11">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>true</bool>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector11">
+      <vector4>
+        <X>0.25</X>
+        <Y>0.02</Y>
+        <Z>0.01</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector30">
+      <vector4>
+        <X>0.5</X>
+        <Y>1.5</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector31">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler1">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>2</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>4</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>eye_ganon_w_col</Text>
+      </string>
+    </param>
+    <param name="Texture1">
+      <string>
+        <Text>eye_ganon_B_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>eye_ganon_w_nor</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>eye_ganon_w_prm</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>#replace_cubemap</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_010000001800830d_opaque" label="EyeLD">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean11">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector3">
+      <vector4>
+        <X>1.5</X>
+        <Y>0.75</Y>
+        <Z>1.5</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector31">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler14">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler5">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture14">
+      <string>
+        <Text>deyes_eye_ganon_d_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>eye_ganon_w_nor</Text>
+      </string>
+    </param>
+    <param name="Texture5">
+      <string>
+        <Text>deyes_eye_ganon_wd_col</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>eye_ganon_w_prm</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>#replace_cubemap</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0100000010008100_opaque" label="EyeLG">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean11">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector3">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector31">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler14">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler5">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture14">
+      <string>
+        <Text>eye_ganon_g_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>eye_ganon_w_nor</Text>
+      </string>
+    </param>
+    <param name="Texture5">
+      <string>
+        <Text>eye_ganon_w_col</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_010000001800830d_opaque" label="EyeLL">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean11">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector3">
+      <vector4>
+        <X>1.9</X>
+        <Y>0.8</Y>
+        <Z>0.7</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector31">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler14">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler5">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture14">
+      <string>
+        <Text>leyes_eye_ganon_l_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>eye_ganon_w_nor</Text>
+      </string>
+    </param>
+    <param name="Texture5">
+      <string>
+        <Text>leyes_eye_ganon_wl_col</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>eye_ganon_w_prm</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>#replace_cubemap</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_010000000800824f_opaque" label="EyeR">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean11">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>true</bool>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector11">
+      <vector4>
+        <X>0.25</X>
+        <Y>0.02</Y>
+        <Z>0.01</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector30">
+      <vector4>
+        <X>0.5</X>
+        <Y>1.5</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector31">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler1">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>2</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>4</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>eye_ganon_w_col</Text>
+      </string>
+    </param>
+    <param name="Texture1">
+      <string>
+        <Text>eye_ganon_B_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>eye_ganon_w_nor</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>eye_ganon_w_prm</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>#replace_cubemap</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_010000001800830d_opaque" label="EyeRD">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean11">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector3">
+      <vector4>
+        <X>1.5</X>
+        <Y>0.75</Y>
+        <Z>1.5</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector31">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler14">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler5">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture14">
+      <string>
+        <Text>deyes_eye_ganon_d_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>eye_ganon_w_nor</Text>
+      </string>
+    </param>
+    <param name="Texture5">
+      <string>
+        <Text>deyes_eye_ganon_wd_col</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>eye_ganon_w_prm</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>#replace_cubemap</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0100000010008100_opaque" label="EyeRG">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean11">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector3">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector31">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler14">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler5">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture14">
+      <string>
+        <Text>eye_ganon_g_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>eye_ganon_w_nor</Text>
+      </string>
+    </param>
+    <param name="Texture5">
+      <string>
+        <Text>eye_ganon_w_col</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_010000001800830d_opaque" label="EyeRL">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean11">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector3">
+      <vector4>
+        <X>1.9</X>
+        <Y>0.8</Y>
+        <Z>0.7</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector31">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler14">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler5">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture14">
+      <string>
+        <Text>leyes_eye_ganon_l_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>eye_ganon_w_nor</Text>
+      </string>
+    </param>
+    <param name="Texture5">
+      <string>
+        <Text>leyes_eye_ganon_wl_col</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>eye_ganon_w_prm</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>#replace_cubemap</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0100000008008a69_opaque" label="alp_ganon_001">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>true</bool>
+    </param>
+    <param name="CustomFloat8">
+      <float>0.4</float>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector14">
+      <vector4>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>2</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>4</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>alp_ganon_001_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>alp_ganon_001_nor</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>alp_ganon_001_prm</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>#replace_cubemap</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0100000008048a69_opaque" label="alp_ganon_002">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>true</bool>
+    </param>
+    <param name="CustomFloat8">
+      <float>0.4</float>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector14">
+      <vector4>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>alp_ganon_002_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>alp_ganon_002_nor</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>alp_ganon_002_prm</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>#replace_cubemap</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0100000008008269_opaque" label="def_ganon_001">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>true</bool>
+    </param>
+    <param name="CustomFloat8">
+      <float>0.4</float>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector14">
+      <vector4>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>2</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>4</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>def_ganon_001_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>def_ganon_001_nor</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>def_ganon_001_prm</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>#replace_cubemap</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0100000008008a6b_opaque" label="skin_ganon_001">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>true</bool>
+    </param>
+    <param name="CustomFloat8">
+      <float>0.4</float>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector11">
+      <vector4>
+        <X>0.0043</X>
+        <Y>0.024</Y>
+        <Z>0.0212</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector14">
+      <vector4>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector30">
+      <vector4>
+        <X>0.5</X>
+        <Y>1.5</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>2</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>4</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>skin_ganon_001_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>skin_ganon_001_nor</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>skin_ganon_001_prm</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>#replace_cubemap</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0100000008008a6b_opaque" label="skin_ganon_002">
+    <param name="BlendState0">
+      <blend_state>
+        <Unk1>1</Unk1>
+        <Unk2>0</Unk2>
+        <BlendFactor1>0</BlendFactor1>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <BlendFactor2>0</BlendFactor2>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>false</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>true</bool>
+    </param>
+    <param name="CustomFloat8">
+      <float>0.4</float>
+    </param>
+    <param name="CustomVector0">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector11">
+      <vector4>
+        <X>0.03968254</X>
+        <Y>0.003174605</Y>
+        <Z>0.001587293</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector14">
+      <vector4>
+        <X>0.75</X>
+        <Y>0.75</Y>
+        <Z>0.75</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector30">
+      <vector4>
+        <X>0.1</X>
+        <Y>1.5</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>1</FillMode>
+        <CullMode>0</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>0</WrapS>
+        <WrapT>0</WrapT>
+        <WrapR>0</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>1</WrapS>
+        <WrapT>1</WrapT>
+        <WrapR>1</WrapR>
+        <MinFilter>1</MinFilter>
+        <MagFilter>1</MagFilter>
+        <Unk6>1</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>skin_ganon_002_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>skin_ganon_002_nor</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>skin_ganon_002_prm</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>#replace_cubemap</Text>
+      </string>
+    </param>
+  </material>
+</MaterialLibrary>

@@ -1,0 +1,12 @@
+{
+	"fighter/miiswordsman/c00": [
+		"fighter/miiswordsman/motion/body/c00/d03speciallw1hitlv2.nuanmb",
+		"fighter/miiswordsman/motion/body/c00/d03specialairlw1hitlv2.nuanmb",
+		"fighter/miiswordsman/motion/body/c00/d03speciallw3hitgrab.nuanmb",
+		"fighter/miiswordsman/motion/body/c00/d03specialairlw3hitgrab.nuanmb"
+	],
+	"fighter/donkey/c00": [
+		"fighter/donkey/motion/body/c00/c00attackdashair.nuanmb"
+	  ]
+	  
+}

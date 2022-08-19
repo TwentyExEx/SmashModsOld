@@ -1,0 +1,7 @@
+display_name = "Samus Re-Envisioned V2"
+authors = "Noababoa"
+version = "1.1.0"
+description = """
+A mod that completely changes Samus's look to a new design! It has a new suit, animations, projectiles, and more!
+"""
+category = "Fighter"
